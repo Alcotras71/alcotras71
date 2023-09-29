@@ -1,3 +1,10 @@
+<ul>
+  <li>🔥 I derive immense pleasure from crafting code</li>
+  <li>📚 The world of programming literature is my cherished domain</li>
+  <li>🚀 I am fueled by the excitement of pushing boundaries and exploring uncharted territories</li>
+  <li>🌍 Connecting with diverse minds is like embarking on a thrilling adventure, where I discover fresh perspectives and forge meaningful connections</li>
+</ul>
+
 <div id="badges">
   <a href="https://linkedin.com/in/andrey-alekseev-501173202" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
