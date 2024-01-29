@@ -15,6 +15,8 @@
 - 🚀 I am fueled by the excitement of pushing boundaries and exploring uncharted territories
 - 🌍 Connecting with diverse minds is like embarking on a thrilling adventure, where I discover fresh perspectives and forge meaningful connections
 
+- <a href="https://www.codewars.com/users/Alcotras71" display="block" aling="center"><img src="https://www.codewars.com/users/Alcotras71/badges/large" alt="codewars"/></a>
+
 ### 📡 Let's Connect and have a Chat!:
 
 <p align="left">
